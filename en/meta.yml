@@ -2,7 +2,7 @@ title: invent-project-template
 hero_image: images/banner.png
 description: invent-project-template description
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2021-03-26"
 steps:
